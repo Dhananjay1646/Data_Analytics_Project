@@ -1,4 +1,4 @@
 # Project:- Tableau<br>
 Database:- db_dump.sql
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/Dhananjay1646/Data_Analytics_Project/blob/main/1_Sales_Insight/Dashboard.png?raw=true "Dashboard")
