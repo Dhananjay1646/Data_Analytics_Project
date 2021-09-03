@@ -8,4 +8,6 @@ File name:- Book2.twb
 Database:- db_dump.sql<br>
 File Name:- Sales_insight.pbix
 
-Graphs maynot look similar beacause of some extra modifications in Sales_insight.pbix as compaired to Book2.twb (Tableau)
+![Alt text](https://github.com/Dhananjay1646/Data_Analytics_Project/blob/main/1_Sales_Insight/PowerBI_Dashboard.png?raw=true "PowerBI_Dashboard")
+
+Note:- Graphs maynot look similar beacause of some extra modifications in Sales_insight.pbix as compaired to Book2.twb (Tableau)
